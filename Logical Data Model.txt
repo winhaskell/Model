@@ -1,0 +1,17 @@
+Logical Data Model
+http://www.1keydata.com/datawarehousing/logical-data-model.html
+
+A logical data model describes the data in as much detail as possible, without regard to how they will be physical implemented in the database. Features of a logical data model include:
+
+Includes all entities and relationships among them.
+All attributes for each entity are specified.
+The primary key for each entity is specified.
+Foreign keys (keys identifying the relationship between different entities) are specified.
+Normalization occurs at this level.
+The steps for designing the logical data model are as follows:
+
+1.Specify primary keys for all entities.
+2.Find the relationships between different entities.
+3.Find all attributes for each entity.
+4.Resolve many-to-many relationships.
+5.Normalization.
