@@ -1,3 +1,15 @@
 Object Management Group
 Business Process Model and Notation
 http://www.bpmn.org/
+
+Business Process Model and Notation (BPMN) is a graphical representation for specifying business processes in a business process model.
+
+Business Process Management Initiative (BPMI) developed BPMN, which has been maintained by the Object Management Group since the two organizations merged in 2005. Version 2.0 of BPMN was released in January 2011,at which point the name was adapted to Business Process Model and Notation as execution semantics were also introduced alongside the notational and diagramming elements.
+
+The primary goal of BPMN is to provide a standard notation readily understandable by all business stakeholders. These include the business analysts who create and refine the processes, the technical developers responsible for implementing them, and the business managers who monitor and manage them. Consequently, BPMN serves as a common language, bridging the communication gap that frequently occurs between business process design and implementation.
+
+
+Further reading
+(a).Grosskopf, Decker and Weske. (Feb 28, 2009). The Process: Business Process Modeling using BPMN. Meghan Kiffer Press. ISBN 978-0-929652-26-9.
+(b).Ryan K. L. Ko, Stephen S. G. Lee, Eng Wah Lee (2009) Business Process Management (BPM) Standards: A Survey. In: Business Process Management Journal, Emerald Group Publishing Limited. Volume 15 Issue 5. ISSN 1463-7154. PDF
+(c).Stephen A. White; Conrad Bock (2011). BPMN 2.0 Handbook Second Edition: Methods, Concepts, Case Studies and Standards in Business Process Management Notation. Future Strategies Inc. ISBN 978-0-9849764-0-9.
