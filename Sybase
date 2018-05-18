@@ -1,0 +1,11 @@
+SAP PowerDesigner (PowerDesigner) is a collaborative enterprise modelling tool produced by Sybase,
+currently owned by SAP. PowerDesigner runs under Microsoft Windows as a native application, 
+and runs under Eclipse through a plugin. PowerDesigner supports model-driven architecture software design. 
+PowerDesigner stores models using a variety of file extensions, such as .bpm, .cdm and .pdm. 
+The internal file structure can be either XML or a compressed binary file format. 
+PowerDesigner can also store models in a database repository.
+
+PowerDesigner data modeling tool market share in 2002 was 39%.
+PowerDesigner is priced from $3,000 to $7,500 USD per developer seat.
+
+https://en.wikipedia.org/wiki/PowerDesigner
