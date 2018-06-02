@@ -1,0 +1,62 @@
+Data Modeling
+https://www.amazon.com/Data-Modeling-Made-Simple-PowerDesigner/dp/0977140091
+
+Data Modeling Made Simple with PowerDesigner will provide the business or IT professional with a practical
+working knowledge of data modeling concepts and best practices, and how to apply these principles with PowerDesigner.
+You'll build many PowerDesigner data models along the way, increasing your skills in first the fundamentals and later
+in the book the more advanced features of PowerDesigner. This book combines real-world experience and best practices
+to help you master the following ten objectives:
+
+You will know when a data model is needed and which PowerDesigner models are the most appropriate for each situation
+
+You will be able to read a data model of any size and complexity with the same confidence as reading a book
+
+You will know when to apply and how to make use of all the key features of PowerDesigner
+
+You will be able to build, step-by-step in PowerDesigner, a pyramid of linked data models, including a conceptual data model, 
+a fully normalized relational data model, a physical data model, and an easily navigable dimensional model
+
+You will be able to apply techniques such as indexing, transforms, and forward engineering to turn a logical data model 
+into an efficient physical design
+
+You will improve data governance and modeling consistency within your organization by leveraging features such as 
+PowerDesigner's reference models, Glossary, domains, and model comparison and model mapping techniques
+
+You will be able to use PowerDesigner to make your data model(s) the center of all your data management 
+initiatives: MDM, Data Warehousing, Business Intelligence, ERP, Data Governance, SOA/XML, Agile development
+
+You will know how to integrate your PowerDesigner models with externally-managed files, including the import 
+and export of data using Excel and Requirements documents
+
+You will know where you can take advantage of the entire PowerDesigner model set, to increase the success rate 
+of corporate-wide initiatives such as business intelligence and enterprise resource planning (ERP)
+
+You will understand the key differentiators between PowerDesigner and other data modeling tools you may have used before
+
+
+
+
+
+This book contains six sections:
+Section I introduces data modeling along with its purpose and variations. 
+Also included is an explanation of the important role of a data modeling tool, 
+the key features required of any data modeling tool, and an introduction to the essential features of PowerDesigner.
+
+Section II explains all of the components on a data model including entities, data elements,
+relationships, and keys, and describes how to create and manage these objects in PowerDesigner.
+Also included is a discussion of the importance of quality names and definitions for your objects.
+
+Section III dives into the relational and dimensional subject area, logical, and physical 
+data models, and describes how PowerDesigner supports these models and the connections between them.
+Learn how to get information into and out of PowerDesigner, and improve the quality of your data models 
+with a cross-reference of key PowerDesigner features with the Data Model ScorecardÂ®.
+
+Section IV contains a PowerDesigner workshop designed to consolidate everything for you.
+
+Section V focuses on additional PowerDesigner features (some of which have already been introduced) 
+which make life easier for data modelers.
+
+Section VI discusses PowerDesigner topics beyond data modeling, including the XML physical model and 
+the other types of model available in PowerDesigner; it also discusses the role of PowerDesigner in data management, 
+using the DAMA Data Management Body of Knowledge (DAMA-DMBOK) framework.
+
