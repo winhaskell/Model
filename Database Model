@@ -1,0 +1,33 @@
+Database Model
+
+https://www.lucidchart.com/pages/database-diagram/database-models
+
+A database model shows the logical structure of a database, including the relationships and constraints that determine
+how data can be stored and accessed. Individual database models are designed based on the rules and concepts of whichever 
+broader data model the designers adopt. Most data models can be represented by an accompanying database diagram.
+
+
+Types of database models
+There are many kinds of data models. Some of the most common ones include:
+
+Hierarchical database model
+Relational model
+Network model
+Object-oriented database model
+Entity-relationship model
+Document model
+Entity-attribute-value model
+Star schema
+The object-relational model, which combines the two that make up its name
+You may choose to describe a database with any one of these depending on several factors. 
+
+The biggest factor is whether the database management system you are using supports a particular model. 
+Most database management systems are built with a particular data model in mind and require their users to adopt that model, 
+although some do support multiple models.
+
+In addition, different models apply to different stages of the database design process. High-level conceptual data models 
+are best for mapping out relationships between data in ways that people perceive that data. Record-based logical models, 
+on the other hand, more closely reflect ways that the data is stored on the server.
+
+Selecting a data model is also a matter of aligning your priorities for the database with the strengths of a particular 
+model, whether those priorities include speed, cost reduction, usability, or something else.
