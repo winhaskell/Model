@@ -1,0 +1,11 @@
+Conceptual Logical
+https://www.visual-paradigm.com/support/documents/vpuserguide/3563/3564/85378_conceptual,l.html
+
+
+Conceptual, Logical and Physical Data Model
+Conceptual, logical and physical model or ERD are three different ways of modeling data in a domain.
+While they all contain entities and relationships, they differ in the purposes they are created for 
+and audiences they are meant to target. A general understanding to the three models is that, business 
+analyst uses conceptual and logical model for modeling the data required and produced by system from
+a business angle, while database designer refines the early design to produce the physical model for
+presenting physical database structure ready for database construction.
