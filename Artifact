@@ -1,0 +1,9 @@
+Artifact
+
+Artifact:  Design Model
+
+Design Model	The design model is an object model describing the realization of use cases, 
+and serves as an abstraction of the implementation model and its source code. 
+The design model is used as essential input to activities in implementation and test.
+
+Copyright  © 1987 - 2001 Rational Software Corporation
