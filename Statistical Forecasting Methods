@@ -1,0 +1,56 @@
+Statistical Forecasting Methods
+
+Multiple Regression Analysis: Used when two or more independent factors are involved-widely used for 
+intermediate term forecasting. Used to assess which factors to include and which to exclude. 
+Can be used to develop alternate models with different factors.
+
+Nonlinear Regression: Does not assume a linear relationship between variables-frequently used when time 
+is the independent variable.
+
+Trend Analysis: Uses linear and nonlinear regression with time as the explanatory variable-used where pattern over time.
+
+Decomposition Analysis: Used to identify several patterns that appear simultaneously in a time series-time 
+consuming each time it is used-also used to deseasonalize a series
+
+Moving Average Analysis: Simple Moving Averages-forecasts future values based on a weighted average of 
+past values-easy to update.
+
+Weighted Moving Averages: Very powerful and economical. They are widely used where repeated forecasts required-uses 
+methods like sum-of-the-digits and trend adjustment methods.
+
+Adaptive Filtering: A type of moving average which includes a method of learning from past errors-can respond 
+to changes in the relative importance of trend, seasonal, and random factors.
+
+Exponential Smoothing: A moving average form of time series forecasting-efficient to use with seasonal 
+patterns- easy to adjust for past errors-easy to prepare follow-on forecasts-ideal for situations where many 
+forecasts must be prepared-several different forms are used depending on presence of trend or cyclical variations.
+
+Hodrick-Prescott Filter: This is a smoothing mechanism used to obtain a long term trend component in a time series. 
+It is a way to decompose a given series into stationary and nonstationary components in such a way that there sum
+of squares of the series from the nonstationary component is minimum with a penalty on changes to the derivatives of 
+the nonstationary component.
+
+
+Modeling and Simulation: Model describes situation through series of equations-allows testing of impact of changes
+in various factors-substantially more time-consuming to construct-generally requires user programming or purchase of
+packages such as SIMSCRIPT. Can be very powerful in developing and testing strategies otherwise non-evident.
+
+Certainty models give only most likely outcome-advanced spreadsheets can be utilized to do "what if" analysis-often
+done e.g.; with computer-based spreadsheets.
+
+Probabilistic Models Use Monte Carlo simulation techniques to deal with uncertainty-gives a range of possible outcomes 
+for each set of events.
+
+Forecasting error: All forecasting models have either an implicit or explicit error structure, where error is defined as 
+the difference between the model prediction and the "true" value. Additionally, many data snooping methodologies within
+the field of statistics need to be applied to data supplied to a forecasting model. Also, diagnostic checking, as defined
+within the field of statistics, is required for any model which uses data.
+
+Using any method for forecasting one must use a performance measure to assess the quality of the method. 
+Mean Absolute Deviation (MAD), and Variance are the most useful measures. However, MAD doesn't lend itself to
+further use making inferences, but that the standard error does. For the error analysis purposes variance is 
+preferred since variances of independent (uncorrelated) errors are additive. MAD is not additive.
+
+
+
+
