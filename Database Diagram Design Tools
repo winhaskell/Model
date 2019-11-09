@@ -18,3 +18,13 @@ and relationships
 
 QuickDBD helps you quickly draw a diagram using just text input.
  
+ 
+Database Designer for MySQL: easy CASE tool
+Powerful MySQL-oriented database structure modeling, generation and modification.
+
+Database Designer for MySQL is a handy tool with intuitive interface that allows you to build a clear and effective 
+database structure visually, see the complete picture (diagram) representing all the tables, references between them, 
+views, stored procedures within your database. Then you can easily generate a physical database on a server, modify 
+it according to any changes you made to the diagram. The product is specially developed for MySQL database and takes 
+into account its features.
+https://www.microolap.com/products/database/mysql-designer/
