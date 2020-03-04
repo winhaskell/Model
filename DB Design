@@ -5,4 +5,17 @@ DB Design is a powerful online database design tool that helps you create high-q
 It allows you to design database structure and perform reverse/forward engineering.
 
 
+CREATE TABLE IF NOT EXISTS `Public`.`din` ( 
+  `id` int not null auto_increment,
+  `hao` int not null,
+  `qifei` int not null,
+  `mudi` int not null,
+  `rqi` int not null,
+  `jiage` int not null,
+  `piao` int not null,
+  PRIMARY KEY (`id`)
+);
+
+
+
 
