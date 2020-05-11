@@ -6,6 +6,37 @@ https://opentextbc.ca/dbdesign01/chapter/chapter-5-data-modelling/
 
 
 
+Data Modeling 101
+Follow @scottwambler on Twitter!
+
+
+Table of Contents
+
+What is data modeling?
+  How are data models used in practice?
+  What about conceptual models?
+  Common data modeling notations
+How to model data
+  Identify entity types
+  Identify attributes
+  Apply naming conventions
+  Identify relationships
+  Apply data model patterns
+  Assign keys
+  Normalize to reduce data redundancy
+  Denormalize to improve performance
+Evolutionary/agile data modeling
+How to become better at modeling data
+
+
+http://www.agiledata.org/essays/dataModeling101.html
+
+Copyright 2002-2020 Ambysoft Inc.
+
+
+
+
+
 
 
 
