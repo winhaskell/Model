@@ -12,6 +12,11 @@ https://www.umsl.edu/~sauterv/analysis/Fall2010Papers/varuni/
 Data Modeling for System Analysis
 
 
+http://www.erdiagrams.com/datamodel-online-shop-idef1x.html
+ONLINE SHOP DATA MODEL
+This is a data model for a webshop. The webshop supports products with multiple images, product reviews, and 
+product specials (such as this week 30% discount). Customers put the product(s) they want to buy/order in a basket.
+
 
 
 
