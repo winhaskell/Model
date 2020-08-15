@@ -1,8 +1,15 @@
-C4 model
-https://c4model.com/
-
 The C4 model for visualising software architecture
 Context, Containers, Components and Code
+
+C4 model
+https://c4model.com/
+The C4 model and this website were created by Simon Brown 
+
+https://structurizr.com/
+Structurizr is a collection of tooling to create software architecture diagrams and documentation based upon the C4 model.
+
+
+
 
 
 
